@@ -4,7 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Quiz3_Cafe {
+public class Quiz4_Class {
 	@Autowired
-	Quiz3_Manager manager;
+	Quiz4_Teacher classTeacher ;
+	
 }
